@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="gbk"?>
+<pages>
+<row>
+    <nameEn>Anhui Agricultural University</nameEn>
+    <nameCn>安徽农业大学</nameCn>
+    <Accepted>N</Accepted>
+    <minGPA>-</minGPA>
+    <minGPAOther>85%</minGPAOther>
+    <file>格拉2</file>
+</row>
+<row>
+    <nameEn>Anhui Medical University</nameEn>
+    <nameCn>安徽医科大学</nameCn>
+    <Accepted>N</Accepted>
+    <minGPA>-</minGPA>
+    <minGPAOther>80%</minGPAOther>
+    <file>格拉2</file>
+</row>
+<row>
+    <nameEn>Anhui Normal University</nameEn>
+    <nameCn>安徽师范大学</nameCn>
+    <Accepted>Y</Accepted>
+    <minGPA>Minimum 82%. Standard 85%.</minGPA>
+    <minGPAOther>80%</minGPAOther>
+    <file>格拉2</file>
+</row>
+<row>
+    <nameEn>Anhui Polytechnic University</nameEn>
+    <nameCn>安徽工程大学</nameCn>
+    <Accepted>N</Accepted>
+    <minGPA>-</minGPA>
+    <minGPAOther>85%</minGPAOther>
+    <file>格拉2</file>
+</row>
+<row>
+    <nameEn>Anhui University</nameEn>
+    <nameCn>安徽大学</nameCn>
+    <Accepted>Y</Accepted>
+    <minGPA>Minimum 82%. Standard 85%.</minGPA>
+    <minGPAOther>80%</minGPAOther>
+    <file>格拉2</file>
+</row>
+<row>
+    <nameEn>Anhui University of Finance and Economics</nameEn>
+    <nameCn>安徽财经大学</nameCn>
+    <Accepted>Y</Accepted>
+    <minGPA>Minimum 82%. Standard 85%.</minGPA>
+    <minGPAOther>80%</minGPAOther>
+    <file>格拉2</file>
+</row>
+<row>
+    <nameEn>Anhui University of Technology</nameEn>
+    <nameCn>安徽工业大学</nameCn>
+    <Accepted>N</Accepted>
+    <minGPA>-</minGPA>
+    <minGPAOther>80%</minGPAOther>
+    <file>格拉2</file>
+</row>
+<row>
+    <nameEn>Anhui University of Traditional Chinese Medicine</nameEn>
+    <nameCn>安徽中医学院</nameCn>
+    <Accepted>N</Accepted>
+    <minGPA>-</minGPA>
+    <minGPAOther>85%</minGPAOther>
+    <file>格拉2</file>
+</row>
+<row>
+    <nameEn>Beihang University (Beijing University of Aeronautics Astronautics)</nameEn>
+    <nameCn>北京航空航天大学</nameCn>
+    <Accepted>Y</Accepted>
+    <minGPA>75%</minGPA>
+    <minGPAOther>75%</minGPAOther>
+    <file>格拉2</file>
+</row>
+<row>
+    <nameEn>Beihua University</nameEn>
+    <nameCn>北华大学</nameCn>
+    <Accepted>N</Accepted>
+    <minGPA>-</minGPA>
+    <minGPAOther>85%</minGPAOther>
+    <file>格拉2</file>
+</row>
+</pages>
